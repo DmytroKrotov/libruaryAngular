@@ -1,0 +1,10 @@
+{
+    
+    "books": [
+      { "id": "1", "title": "Historic","author": {"name": "Elizabeth", "lastName":"Kostova","homeland":"Bulgaria","description":"qwerty"},"reviews":["first review","second review","third review"] },
+      { "id": "2", "title": "Harry Potter 1","author": {"name": "Joan", "lastName":"Rowling","homeland":"Great Britain","description":"qwerty"},"reviews":["first review","second review","third review"] },
+      { "id": "3", "title": "Harry Potter 2","author": {"name": "Joan", "lastName":"Rowling","homeland":"Great Britain","description":"qwerty"},"reviews":["first review","second review","third review"] },
+      { "id": "4", "title": "Da Vinci Code","author": {"name": "Den", "lastName":"Brown","homeland":"USA","description":"qwerty"},"reviews":["first review","second review","third review"] },
+      { "id": "5", "title": "Kobzar","author": {"name": "Taras", "lastName":"Shevchenko","homeland":"Ukraine","description":"qwerty"},"reviews":["first review","second review","third review"] }
+    ]
+  }
